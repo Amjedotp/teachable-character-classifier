@@ -55,7 +55,7 @@ teachable-character-classifier/
 
 Make sure you have a screenshot of the terminal output like the one below, showing predicted results:
 
-![Output](output.png)
+![Output](output.png.png)
 
 ##  Submission Checklist
 
